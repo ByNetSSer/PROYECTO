@@ -3669,8 +3669,8 @@ TextureImporter:
         serializedVersion: 2
         x: 56
         y: 622
-        width: 49
-        height: 58
+        width: 50
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3691,7 +3691,7 @@ TextureImporter:
         x: 108
         y: 622
         width: 50
-        height: 57
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
